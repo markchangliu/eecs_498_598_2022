@@ -3,4 +3,6 @@ __pycache__/
 *.DS_Store
 .ipynb_checkpoints
 logs/
+**logs_and_checkpoints/
+**work_dir/
 **data/
